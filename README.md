@@ -1,7 +1,7 @@
 
 
 <img align="center" height="auto"
-src="https://files.catbox.moe/bqs70b.jpg?">
+src="https://files.catbox.moe/9i1246.jpg?">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=J+I+N+W+O+O+▇)](https://git.io/typing-svg)
 <br>
@@ -40,7 +40,7 @@ src="https://files.catbox.moe/bqs70b.jpg?">
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/XdKing2/Jinwoo-bot/fork"><img src="https://img.shields.io/github/forks/XdKing2/Jinwoo-bot?style=for-the-badge&logo=github&color=4c1&label=Fork%20Jinwoo"bot" alt="Fork Jinwoo-bot" /></a>
+<a href="https://github.com/XdKing2/Jinwoo-bot/fork"><img src="https://img.shields.io/github/forks/XdKing2/Jinwoo-bot?style=for-the-badge&logo=github&color=4c1&label=Fork%20Jinwoo-bot" alt="Fork Jinwoo-bot" /></a>
 
 <img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
